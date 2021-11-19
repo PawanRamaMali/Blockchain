@@ -2,7 +2,7 @@
 
 
 <details>
-<summary> What is Blockchain ? ? </summary>
+<summary> What is Blockchain ? </summary>
 <br/>
 
 A blockchain is a Ledger of constantly growing distributed data/transactions/database that is shared among the nodes of a computer network. 
@@ -14,3 +14,13 @@ A blockchain is a Ledger of constantly growing distributed data/transactions/dat
   
 ---
 </details>
+
+<details>
+<summary> How Blockchain works ? </summary>
+<br/>
+
+![image](https://user-images.githubusercontent.com/11299574/142675545-db7051ed-530a-4660-9793-34cac230f68f.png)
+  
+---
+</details>
+
