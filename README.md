@@ -24,3 +24,12 @@ A blockchain is a Ledger of constantly growing distributed data/transactions/dat
 ---
 </details>
 
+<details>
+<summary> Limitations of Blockchain </summary>
+<br/>
+
+![image](https://user-images.githubusercontent.com/11299574/142735667-79f108df-34ee-403d-b28d-5853e95ca46b.png)
+Source : https://101blockchains.com/ 
+  
+---
+</details>
