@@ -47,6 +47,30 @@ A blockchain is a Ledger of constantly growing distributed data/transactions/dat
 ---
 </details>
 
+
+<details>
+<summary> Blockchain, Currency, and Cryptocurrency </summary>
+<br/>
+
+* Blockchain vs. Bitcoin
+  * Blockchain
+    * Technology of how we do something
+  * Bitcoin
+    * An implementation of blockchain
+* Digital vs. Fiat Currency
+  * Digital currency
+    * Kind of like digital representation of money in your bank account
+  * Fiat currency
+    * “Real” currency
+    * Backed by regulatory/gov agency
+* Cryptocurrency
+  * Cryptography ensures integrity
+  * Hashes (more on that later)
+  * Cryptography doesn’t always mean encryption
+  
+---
+</details>
+
 <details>
 <summary> How Blockchain works ? </summary>
 <br/>
