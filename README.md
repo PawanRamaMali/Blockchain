@@ -27,6 +27,24 @@ A blockchain is a Ledger of constantly growing distributed data/transactions/dat
   * More expensive
   * Human error and corruption
   
+* Payment Issues
+  * Customer payment issues
+  * Cash
+    * Can get swiped
+  * Check
+    * Personal check has your bank account info
+    * Might not be accepted
+  * Vendor payment issues
+    * Cash
+    * Customer might not like that
+  * Credit cards
+    * Merchant account
+    * Sign up for a service
+
+  * Solution:
+    * The blockchain!
+      * Transfer funds without trust
+  
 ---
 </details>
 
