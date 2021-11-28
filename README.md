@@ -15,6 +15,21 @@ A blockchain is a Ledger of constantly growing distributed data/transactions/dat
 ---
 </details>
 
+
+<details>
+<summary> What is the need for Blockchain ? </summary>
+<br/>
+
+* People like to exchange things of value
+* Value exchange relies on trust
+* Trust often depends on a third party
+  * Ex: bank or broker
+  * More expensive
+  * Human error and corruption
+  
+---
+</details>
+
 <details>
 <summary> How Blockchain works ? </summary>
 <br/>
