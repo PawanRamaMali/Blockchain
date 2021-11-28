@@ -99,6 +99,20 @@ A blockchain is a Ledger of constantly growing distributed data/transactions/dat
 </details>
 
 <details>
+<summary> Features of Blockchain </summary>
+<br/>
+
+* Value without trust
+* Eliminate middlemen and reduce costs
+* Efficiency through direct interaction
+* Complete transaction history
+* Resilience through replication
+* Transparency
+  
+---
+</details>
+
+<details>
 <summary> Limitations of Blockchain </summary>
 <br/>
 
