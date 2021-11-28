@@ -30,6 +30,23 @@ A blockchain is a Ledger of constantly growing distributed data/transactions/dat
 ---
 </details>
 
+
+<details>
+<summary> What is Currency Exchange ? </summary>
+<br/>
+
+* Traditional currency exchange
+  * Exchange currency for something else
+  * Requires trusted 3rd party
+    * Ex: bank, credit card company, etc
+* Blockchain technology
+  * Supports digital currency in a trustless environment
+  * Cryptocurrency
+  * No trusted 3rd party needed
+  
+---
+</details>
+
 <details>
 <summary> How Blockchain works ? </summary>
 <br/>
